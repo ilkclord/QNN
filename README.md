@@ -1,8 +1,13 @@
 # QNN
 Code for quantum machine learning hackathon 
 
-## Quantum Layer
-<img src="figure/structure.png" alt="Model Structure">
+
+## Classical SE Layer
+<img src="figure/se_layer.png" alt="Model Structure">
+
+## Quantum SE Layer
+<img src="figure/q_se_layer.png" alt="Model Structure">
+
 
 
 
